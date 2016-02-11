@@ -13,9 +13,9 @@ public class Visualization {
 	private Graphics2D graphics;
 	public boolean running = false;
 	
-	public String[] paths = {"Tarrega, Recuerdos de la Alhambra.wav", "Claire De Lune.wav", "Dirt Road Anthem.wav", "Matilda.wav", "If I Were A Boy.wav",
-			"Sunday Mornings.wav", "Over You.wav", "Background2.wav", "On My Own.wav", "Area Codes.wav", "Say Hello to Goodbye.wav", "Candy Shop.wav",
-			"Kryptonite.wav", "T.N.T..wav", "Rooster.wav", "Bat Country.wav"};
+	public String[] paths = {"assets/Tarrega, Recuerdos de la Alhambra.wav", "assets/Claire De Lune.wav", "assets/Dirt Road Anthem.wav", "assets/Matilda.wav", "assets/If I Were A Boy.wav",
+			"assets/Sunday Mornings.wav", "assets/Over You.wav", "assets/Background2.wav", "assets/On My Own.wav", "assets/Area Codes.wav", "assets/Say Hello to Goodbye.wav", "assets/Candy Shop.wav",
+			"assets/Kryptonite.wav", "assets/T.N.T..wav", "assets/Rooster.wav", "assets/Bat Country.wav"};
 	
 	//classical & country
 	public int[] inds = {0,1,2,3,4};
